@@ -1,5 +1,5 @@
 ## Entrevistas Concedidas
-Imprensa: entervistas concedidas e ou publicadas em jornais, revistas e portais...
+Imprensa: entrevistas concedidas e ou publicadas em jornais, revistas e portais...
 
 ### Revista Veja
 
