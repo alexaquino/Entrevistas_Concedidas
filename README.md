@@ -1,7 +1,5 @@
-## Entrevistas_Concedidas
+## Entrevistas Concedidas
 Imprensa: entervistas concedidas e ou publicadas em jornais, revistas e portais...
-
-## 2013
 
 ### Revista Veja
 
