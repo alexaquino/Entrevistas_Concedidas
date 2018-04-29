@@ -57,5 +57,15 @@ Imprensa: entrevistas concedidas e ou publicadas em jornais, revistas e portais.
 * Autor(a): 
 * Link: http://www.crea-rn.org.br/noticias/ver/2145
 
+#
+### SEEC - Secretaria da Educação e da Cultura do RN
+
+* Matéria: "UERN é principal universidade parceira da Campus Party Natal"
+* Assunto: Campus Party Natal
+* Autor(a): ASSECOM/RN
+* Link: https://goo.gl/HZQJqF
+
+
+
 
 
